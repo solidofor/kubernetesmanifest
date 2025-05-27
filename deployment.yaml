@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: oforsolid/cicd:2
+      - image: oforsolid/cicd:3
         name: flaskdemo
         resources: {}
 status: {}
